@@ -5,7 +5,7 @@ package.domain = org.aguzman
 source.dir = .
 source.include_exts = py,png,jpg,jpeg,kv,atlas,md
 version = 0.1
-requirements = python3,kivy==2.3.0,pillow,numpy,matplotlib,plyer
+requirements = python3,kivy==2.3.0,pillow,numpy==1.26.4,matplotlib,plyer
 # icon.filename = %(source.dir)s/icon.png
 orientation = portrait
 fullscreen = 0
